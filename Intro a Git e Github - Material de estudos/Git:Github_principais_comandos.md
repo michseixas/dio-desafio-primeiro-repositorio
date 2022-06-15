@@ -18,6 +18,9 @@ git push origin master - empurrar tudo o que está na sua maquina local para o s
 
 ### Flags
 -a :mostra os arquivos ocultos
+
 -la :mostra os arquivos ocultos em forma de lista
+
 mv: move um arquivo
+
 ./ de um repositorio para outro
